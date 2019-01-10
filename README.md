@@ -1,2 +1,1 @@
-# BooksForDummies
-More than 50 books
+# More than 50 books
